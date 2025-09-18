@@ -1,21 +1,23 @@
 # 👋 Hello! / ¡Hola!
 
-💼 **About Me**  
+## 💼 About Me  
 
 I am a recent graduate in **Multiplatform Application Development (Higher Level Vocational Training, Spain)** with **five months of experience as a fullstack developer** in projects using **Java Spring Boot** and **Angular 19**, working with **microservices architecture**. During this time, I contributed to API development, UI implementation, and collaborative teamwork following **agile methodologies**.  
 
 I am motivated to continue learning and to apply my skills in an innovative professional environment. I am available for immediate incorporation and eager to contribute to the success of new projects.  
 
+Currently I'm working on a personal project called "Personal Suite", which is a suite of various utilities separated in back-end with Python and front-end TBD.
 
-## 🇪🇸 Español
 <details>
-<summary>Versión en español</summary>
+<summary>🇪🇸 Español</summary>
   
-💼 **Sobre mí**  
+## 💼 Sobre mí  
   
 Soy recién graduado en **Desarrollo de Aplicaciones Multiplataforma** y cuento con **cinco meses de experiencia como desarrollador fullstack** en proyectos con **Java Spring Boot** y **Angular 19**, trabajando bajo **arquitectura de microservicios**. Durante este tiempo, he participado en la creación de APIs, la implementación de interfaces y la colaboración en equipos siguiendo **metodologías ágiles**.  
 
-Me motiva seguir ampliando mis conocimientos y aportar en proyectos innovadores. Tengo disponibilidad inmediata y gran entusiasmo por contribuir de manera significativa en un entorno profesional.
+Me motiva seguir ampliando mis conocimientos y aportar en proyectos innovadores. Tengo disponibilidad inmediata y gran entusiasmo por contribuir de manera significativa en un entorno profesional.  
+
+Actualmente estoy trabajando en un proyecto personal al que llamo «Personal Suite», una suite de utilidades varias separada en back-end con Python y front-end aún por decidir.
 
 </details>
 
